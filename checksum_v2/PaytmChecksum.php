@@ -8,6 +8,7 @@
  * @version    2.0
  * @link       https://developer.paytm.com/docs/checksum/
  */
+namespace vats\check;
 
 class PaytmChecksum{
 
