@@ -1,7 +1,7 @@
 {
   "name": "test/soumya",
-  "description": "Test Library",
-  "keywords": ["Test","Client","Test","PHP"],
+  "description": "Soumya Library",
+  "keywords": ["Client","soumya","PHP"],
   "authors": [
     {
       "name": "Soumya Vats",
