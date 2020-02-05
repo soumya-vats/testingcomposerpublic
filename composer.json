@@ -16,5 +16,5 @@
     "ext-openssl": "*",
     "netresearch/jsonmapper": "^1.4",
     "monolog/monolog": "^1.24"
-  },
+  }
 }
