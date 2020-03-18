@@ -8,8 +8,8 @@
  * @version    2.0
  * @link       https://developer.paytm.com/docs/checksum/
  */
-
-class PaytmChecksum{
+namespace vats\check;
+class PaytmChecksum-composer{
 
 	private static $iv = "@@@@&&&&####$$$$";
 

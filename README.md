@@ -1,2 +1,2 @@
 # Checksum - PHP Language
-* More Details: **https://developer.paytm.com/docs/checksum/#php**# test-repo
+* More Details: **https://developer.paytm.com/docs/checksum/#php**
