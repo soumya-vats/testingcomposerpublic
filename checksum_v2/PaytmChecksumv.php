@@ -9,7 +9,7 @@
  * @link       https://developer.paytm.com/docs/checksum/
  */
 namespace vats\check;
-class PaytmChecksumv{
+class PaytmChecksum{
 
 	private static $iv = "@@@@&&&&####$$$$";
 
