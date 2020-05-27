@@ -11,7 +11,7 @@
         "monolog/monolog": "^1.24"
     },
  "autoload": {
-        "psr-4": {"vats\\check\\": "checksum_v2/"}
+        "psr-4": {"vats\\check\\": "/"}
     },
     "license": "MIT",
     "minimum-stability": "dev",
