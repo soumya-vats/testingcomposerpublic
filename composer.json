@@ -1,7 +1,7 @@
 {
     "name": "vats/test_check_min",
     "description": "this is a test check",
-    "require": {
+    "require-dev": {
         "ext-json": "*",
         "php": ">=5.6.0",
         "ext-curl": "*",
