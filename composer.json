@@ -1,5 +1,5 @@
 {
-    "name": "vats/test_check_php_again",
+    "name": "vats/test_check",
     "description": "this is a test check",
     "require": {
         "ext-json": "*",
